@@ -70,6 +70,4 @@ Prototype / early product foundation. The repository already demonstrates the co
 
 ## Developer Credit
 
-Prepared by Nexol Tech Solutions.
-
 - GitHub: [syed-daniyalH](https://github.com/syed-daniyalH)
